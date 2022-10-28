@@ -5,7 +5,7 @@
 <h3 align="center">I am passionate about FullStack Development.</h3>
 
 <div align="center">
-  <h3><b>👀 **Profile Visitor Count** 👀</b></h3>
+  <h3><b>👀 Profile Visitor Count 👀</b></h3>
 </div>
 
 <p align="center"><img src="https://profile-counter.glitch.me/099ayuh/count.svg" /></p>
