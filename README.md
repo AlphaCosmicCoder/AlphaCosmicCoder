@@ -66,7 +66,7 @@
 
 <p>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AlphaCosmicCoder&show_icons=true&locale=en&layout=compact" alt="AlphaCosmicCoder" style="width:42%;" />
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=AlphaCosmicCoder&" alt="AlphaCosmicCoder"/>
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=AlphaCosmicCoder&show_icons=true&locale=en&layout=compact" alt="AlphaCosmicCoder"/>
 </p>
 
 
