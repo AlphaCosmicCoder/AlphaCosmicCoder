@@ -8,11 +8,11 @@
   <h3><b>👀 Profile Visitor Count 👀</b></h3>
 </div>
 
-<p align="center"><img src="https://profile-counter.glitch.me/099ayuh/count.svg" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/AlphaCosmicCoder/count.svg" /></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=099ayuh&label=Profile%20views&color=0e75b6&style=flat" alt="099ayuh" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AlphaCosmicCoder&label=Profile%20views&color=0e75b6&style=flat" alt="AlphaCosmicCoder" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=099ayuh" alt="099ayuh" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AlphaCosmicCoder" alt="AlphaCosmicCoder" /></a> </p>
 
 <!--<p align="right"><img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400"/></p>
 
@@ -26,9 +26,9 @@
 
 - 🌱 I’m currently learning **B.Sc.(Hons.) in Computer Science**
 
-- 👨‍💻 All of my projects are available at [git@github:099ayuh](https://github.com/099ayuh?tab=repositories)
+- 👨‍💻 All of my projects are available at [git@github:AlphaCosmicCoder](https://github.com/AlphaCosmicCoder?tab=repositories)
 
-- ⚡ Fun Fact: **Typing keyboards used to be arranged alphabetically.**
+- ⚡ Fun Fact: **I once sang code to my computer and it compiled perfectly! 🎶💻.**
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -62,11 +62,11 @@
 </p>
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=099ayuh&show_icons=true&theme=gotham" alt="099ayuh" style="width:100%;" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=AlphaCosmicCoder&show_icons=true&theme=gotham" alt="AlphaCosmicCoder" style="width:100%;" />
 
 <p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=099ayuh&show_icons=true&locale=en&layout=compact" alt="099ayuh" style="width:42%;" />
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=099ayuh&" alt="099ayuh"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AlphaCosmicCoder&show_icons=true&locale=en&layout=compact" alt="AlphaCosmicCoder" style="width:42%;" />
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=AlphaCosmicCoder&" alt="AlphaCosmicCoder"/>
 </p>
 
 
